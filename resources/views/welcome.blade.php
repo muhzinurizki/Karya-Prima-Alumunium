@@ -5,4 +5,5 @@
     <x-sections.why-choose-us />
     <x-sections.materials />
     <x-sections.contact />
+    <x-sections.testimonials />
 </x-layout>

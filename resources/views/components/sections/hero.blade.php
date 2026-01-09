@@ -32,7 +32,7 @@
                 </div>
 
                 <div class="flex flex-wrap gap-6 items-center">
-                    <a href="#proyek" class="group relative px-10 py-5 bg-blue-600 overflow-hidden rounded-full transition-all duration-300 hover:shadow-[0_20px_40px_-15px_rgba(37,99,235,0.4)]">
+                    <a href="https://wa.me/6285930366801" class="group relative px-10 py-5 bg-blue-600 overflow-hidden rounded-full transition-all duration-300 hover:shadow-[0_20px_40px_-15px_rgba(37,99,235,0.4)]">
                         <div class="absolute inset-0 w-0 bg-white transition-all duration-300 ease-out group-hover:w-full opacity-10"></div>
                         <span class="relative text-white font-bold text-xs tracking-widest uppercase flex items-center gap-3">
                             Mulai Konsultasi
